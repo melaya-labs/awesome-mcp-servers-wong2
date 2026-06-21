@@ -612,6 +612,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Shinkai](http://github.com/dcSpark/shinkai-apps/)** is a two click install AI manager (Local and Remote) that allows you to create AI agents in 5 minutes or less using a simple UI. Agents and tools are exposed as an MCP Server.
 - **[mcps-playground](https://mcpsplayground.com/chat)** a playground for Remote MCP servers
 
+- **[Melaya](https://github.com/melaya-labs/melaya)** — Agentic platform with native MCP client support. Visual canvas where any crew attaches tools from any MCP server (stdio or HTTP/SSE) and composes them alongside Melaya's 1,200+ first-party scoped tools and 100+ subagent templates. HITL approval, scheduling, and replay around every MCP tool call. Includes a 7-persona Trading Crew running on a Rust engine at 420 ns per bar.
 ## Frameworks
 
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
